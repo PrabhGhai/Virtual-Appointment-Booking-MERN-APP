@@ -1,4 +1,4 @@
-# 🏥 Virtual Appointment Booking App (MERN Stack + Context API)
+# 🏥 Virtual Appointment Booking App (MERN Stack + Context API + AI ChatBoat + Doctor-Patient Virtual Call)
 
 A full-stack virtual healthcare appointment platform designed to connect **patients** with **doctors** through secure **virtual video calls**, powered by the **MERN stack**. The application includes role-based access for **Users**, **Patients**, **Doctors**, and **Admins**. It also features an AI-powered chatbot to help patients get answers to health-related questions before or after booking appointments.
 
